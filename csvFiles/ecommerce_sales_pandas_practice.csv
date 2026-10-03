@@ -1,0 +1,201 @@
+order_id,order_date,customer_id,city,category,product,quantity,unit_price,discount_percent,payment_method,customer_rating,returned
+ORD1001,2026-01-01,CUST138,Chennai,Sports,Novel,1.0,21826.0,5.0,UPI,2.0,No
+ORD1002,2026-01-01,CUST128,Hyderabad,Clothing,Shoes,4.0,37738.0,20.0,Credit Card,2.0,No
+ORD1003,2026-01-02,CUST114,Pune,Clothing,Novel,4.0,18874.0,0.0,UPI,3.0,No
+ORD1004,2026-01-03,CUST142,Bengaluru,Home,Jeans,5.0,9484.0,0.0,Cash,5.0,No
+ORD1005,2026-01-04,CUST107,Mumbai,Clothing,Backpack,2.0,19396.0,10.0,Debit Card,,No
+ORD1006,2026-01-05,CUST120, pune ,Electronics,Backpack,5.0,2492.0,10.0,Credit Card,2.0,Yes
+ORD1007,2026-01-06,CUST138,Bengaluru,Sports,Novel,2.0,34316.0,20.0,UPI,4.0,No
+ORD1008,2026-01-07,CUST118,Chennai,Books,Backpack,5.0,11546.0,,Net Banking,2.0,No
+ORD1009,2026-01-08,CUST122,Pune,Clothing,Jeans,3.0,45858.0,0.0,Credit Card,,Yes
+ORD1010,2026-01-09,CUST110,Delhi,Electronics,Headphones,3.0,18681.0,20.0,Credit Card,5.0,nan
+ORD1011,2026-01-10,CUST110,Pune,Books,Novel,3.0,36755.0,10.0,UPI,5.0,Yes
+ORD1012,2026-01-10,CUST123,Chennai,Sports,Phone,3.0,27027.0,10.0,Credit Card,4.0,No
+ORD1013,2026-01-11,CUST135,Pune,Books,Shoes,1.0,4318.0,0.0,Net Banking,2.0,No
+ORD1014,2026-01-12,CUST139,Mumbai,Electronics,Backpack,3.0,11602.0,15.0,Credit Card,5.0,No
+ORD1015,2026-01-13,CUST123,Delhi,Books,Backpack,4.0,2270.0,5.0,Net Banking,,No
+ORD1016,2026-01-14,CUST102,Delhi,Home,Laptop,4.0,41457.0,10.0,UPI,3.0,No
+ORD1017,2026-01-15,CUST121,Chennai,Books,Mixer,1.0,27502.0,,Debit Card,1.0,No
+ORD1018,2026-01-16,CUST101,Mumbai,Clothing,Novel,3.0,31410.0,,Credit Card,1.0,No
+ORD1019,2026-01-17,CUST123,Bengaluru,Electronics ,Cricket Bat,3.0,17886.0,10.0,Debit Card,1.0,Yes
+ORD1020,2026-01-18,CUST143,Pune,Home,Backpack,3.0,24819.0,15.0,Net Banking,2.0,No
+ORD1021,2026-01-19,CUST129,Hyderabad,Electronics,Shoes,5.0,31573.0,15.0,Credit Card,4.0,No
+ORD1022,2026-01-19,CUST137,Pune,Clothing,Phone,2.0,22251.0,20.0,Cash,5.0,No
+ORD1023,2026-01-20,CUST101,Pune,Sports,Backpack,5.0,15674.0,,Debit Card,3.0,No
+ORD1024,2026-01-21,CUST120,Bengaluru,Clothing,Phone,2.0,6088.0,20.0,Credit Card,,No
+ORD1025,2026-01-22,CUST132,Pune,Clothing,Jeans,3.0,5708.0,,Debit Card,3.0,No
+ORD1026,2026-01-23,CUST111,Mumbai,Electronics,Jeans,3.0,25353.0,5.0,Credit Card,,No
+ORD1027,2026-01-24,CUST121,Mumbai,Books,Mixer,5.0,9746.0,5.0,UPI,2.0,Yes
+ORD1028,2026-01-25,CUST143,Delhi,Clothing,Headphones,5.0,1222.0,0.0,Debit Card,1.0,Yes
+ORD1029,2026-01-26,CUST124,Chennai,Home,Cricket Bat,2.0,33487.0,20.0,Cash,2.0,No
+ORD1030,2026-01-27,CUST148,Hyderabad,Books,Laptop,4.0,11089.0,10.0,Cash,4.0,No
+ORD1031,2026-01-28,CUST126,Pune,Sports,Mixer,2.0,32484.0,20.0,Net Banking,4.0,No
+ORD1032,2026-01-29,CUST141,Pune,Electronics,T-Shirt,5.0,1420.0,10.0,Credit Card,,No
+ORD1033,2026-01-29,CUST127,Bengaluru,Sports,Laptop,5.0,44328.0,15.0,Debit Card,5.0,nan
+ORD1034,2026-01-30,CUST115,Chennai,Books,Novel,1.0,32454.0,20.0,Net Banking,5.0,No
+ORD1035,2026-01-31,CUST114,Mumbai,Books,Shoes,5.0,17634.0,15.0,Debit Card,,No
+ORD1036,2026-02-01,CUST146,Hyderabad,Books,T-Shirt,1.0,2636.0,5.0,upi,4.0,No
+ORD1037,2026-02-02,CUST150,Delhi,Sports,T-Shirt,4.0,38441.0,5.0,Cash,4.0,No
+ORD1038,2026-02-03,CUST143,Mumbai,Books,Mixer,2.0,2543.0,0.0,UPI,4.0,No
+ORD1039,2026-02-04,CUST102,Chennai,Sports,Headphones,2.0,19329.0,20.0,Cash,2.0,No
+ORD1040,2026-02-05,CUST136,Delhi,Books,Mixer,1.0,32565.0,15.0,Net Banking,4.0,No
+ORD1041,2026-02-06,CUST150,Bengaluru,Home,Novel,2.0,37680.0,10.0,UPI,3.0,No
+ORD1042,2026-02-07,CUST106,Bengaluru,Books,Backpack,5.0,47014.0,5.0,Net Banking,1.0,nan
+ORD1043,2026-02-07,CUST120,Pune,Sports,Backpack,3.0,44172.0,5.0,Credit Card,4.0,nan
+ORD1044,2026-02-08,CUST108,Chennai,Clothing,Headphones,1.0,46497.0,10.0,UPI,,No
+ORD1045,2026-02-09,CUST138,Hyderabad,Books,Novel,2.0,24010.0,15.0,Net Banking,1.0,No
+ORD1046,2026-02-10,CUST117,Delhi,Clothing,Headphones,1.0,29786.0,15.0,Credit Card,2.0,No
+ORD1047,2026-02-11,CUST103,Mumbai,Home,Phone,1.0,6671.0,20.0,Cash,,Yes
+ORD1048,2026-02-12,CUST124,Chennai,Electronics,Backpack,3.0,6659.0,20.0,Credit Card,1.0,Yes
+ORD1049,2026-02-13,CUST113,Chennai,Home,T-Shirt,5.0,40931.0,,Debit Card,,No
+ORD1050,2026-02-14,CUST149,Bengaluru,Books,Cricket Bat,1.0,36296.0,,Credit Card,2.0,No
+ORD1051,2026-02-15,CUST108,Pune,Clothing,Shoes,2.0,20403.0,0.0,Credit Card,3.0,No
+ORD1052,2026-02-16,CUST125,Pune,Clothing,Novel,4.0,14682.0,5.0,Debit Card,2.0,No
+ORD1053,2026-02-17,CUST101,Delhi,Sports,Laptop,1.0,19055.0,20.0,Net Banking,2.0,No
+ORD1054,2026-02-17,CUST119,Bengaluru,Clothing,Headphones,1.0,35959.0,15.0,Net Banking,,No
+ORD1055,2026-02-18,CUST127,Chennai,Sports,Shoes,3.0,4056.0,10.0,Credit Card,5.0,No
+ORD1056,2026-02-19,CUST146,Hyderabad,Electronics,Laptop,5.0,20909.0,15.0,Debit Card,4.0,No
+ORD1057,2026-02-20,CUST106,Bengaluru,Books,Shoes,4.0,48838.0,5.0,Debit Card,4.0,nan
+ORD1058,2026-02-21,CUST143,Delhi,Sports,Cricket Bat,2.0,16778.0,,Cash,3.0,Yes
+ORD1059,2026-02-22,CUST107,Delhi,Electronics,Laptop,4.0,35742.0,15.0,Net Banking,3.0,No
+ORD1060,2026-02-23,CUST146,Bengaluru,Clothing,Mixer,2.0,39966.0,0.0,UPI,4.0,No
+ORD1061,2026-02-24,CUST134,Delhi,Clothing,Jeans,5.0,10447.0,5.0,Net Banking,5.0,No
+ORD1062,2026-02-25,CUST113,Bengaluru,Electronics,Mixer,2.0,33861.0,,Net Banking,4.0,No
+ORD1063,2026-02-26,CUST116,Mumbai,Clothing,Backpack,3.0,35184.0,10.0,Cash,5.0,No
+ORD1064,2026-02-26,CUST135,Bengaluru,Electronics,Jeans,3.0,6079.0,,UPI,3.0,No
+ORD1065,2026-02-27,CUST149,Bengaluru,Sports,Mixer,3.0,12598.0,0.0,Cash,1.0,nan
+ORD1066,2026-02-28,CUST139,Delhi,Sports,Jeans,3.0,14453.0,5.0,UPI,,No
+ORD1067,2026-03-01,CUST103,Delhi,Electronics,Jeans,4.0,44179.0,10.0,Credit Card,3.0,No
+ORD1068,2026-03-02,CUST101,Pune,Sports,T-Shirt,5.0,11089.0,0.0,UPI,3.0,No
+ORD1069,2026-03-03,CUST105,Pune,Sports,Headphones,2.0,44465.0,,Cash,2.0,nan
+ORD1070,2026-03-04,CUST141,Mumbai,Sports,Headphones,2.0,13299.0,0.0,Net Banking,2.0,No
+ORD1071,2026-03-05,CUST103,Pune,Home,T-Shirt,3.0,1114.0,5.0,UPI,2.0,No
+ORD1072,2026-03-06,CUST128,Bengaluru,Books,Shoes,3.0,49797.0,20.0,UPI,,No
+ORD1073,2026-03-07,CUST117,Delhi,Clothing,Phone,1.0,,0.0,Debit Card,2.0,No
+ORD1074,2026-03-08,CUST125,Pune,Home,Shoes,5.0,25238.0,0.0,Net Banking,5.0,No
+ORD1075,2026-03-08,CUST143,Pune,Sports,Laptop,4.0,2743.0,,Credit Card,4.0,No
+ORD1076,2026-03-09,CUST133,Mumbai,Electronics,Laptop,2.0,10757.0,,Cash,1.0,nan
+ORD1077,2026-03-10,CUST109,Chennai,Sports,Jeans,1.0,10680.0,10.0,Credit Card,3.0,No
+ORD1078,2026-03-11,CUST135,Mumbai,Books,Mixer,1.0,8083.0,,Net Banking,5.0,No
+ORD1079,2026-03-12,CUST113,Bengaluru,Sports,Mixer,2.0,44541.0,15.0,UPI,1.0,nan
+ORD1080,2026-03-13,CUST130,Delhi,Electronics,Headphones,4.0,17668.0,5.0,UPI,5.0,No
+ORD1081,2026-03-14,CUST147,Mumbai,Books,Novel,1.0,15628.0,5.0,Net Banking,5.0,No
+ORD1082,2026-03-15,CUST114,Pune,Sports,Shoes,1.0,26515.0,20.0,UPI,3.0,No
+ORD1083,2026-03-16,CUST107,Delhi,Books,Backpack,5.0,33895.0,20.0,UPI,4.0,No
+ORD1084,2026-03-17,CUST113,Delhi,Clothing,Cricket Bat,4.0,27606.0,5.0,UPI,2.0,No
+ORD1085,2026-03-17,CUST122,Pune,Clothing,Mixer,1.0,20215.0,20.0,Cash,,No
+ORD1086,2026-03-18,CUST139,Mumbai,Sports,Cricket Bat,4.0,40215.0,10.0,Cash,4.0,No
+ORD1087,2026-03-19,CUST120,Pune,Books,Jeans,2.0,37519.0,,Debit Card,,No
+ORD1088,2026-03-20,CUST115,Chennai,Electronics,Cricket Bat,3.0,15643.0,5.0,Credit Card,3.0,No
+ORD1089,2026-03-21,CUST144,Delhi,Sports,Backpack,1.0,46703.0,20.0,Net Banking,3.0,No
+ORD1090,2026-03-22,CUST117,Hyderabad,Clothing,T-Shirt,5.0,39027.0,5.0,Net Banking,3.0,No
+ORD1091,2026-03-23,CUST146,Hyderabad,Clothing,Backpack,2.0,426.0,15.0,Net Banking,1.0,nan
+ORD1092,2026-03-24,CUST123,Bengaluru,Sports,Cricket Bat,4.0,27932.0,0.0,Debit Card,,No
+ORD1093,2026-03-25,CUST125,Pune,Books,Backpack,2.0,41863.0,,Cash,4.0,No
+ORD1094,2026-03-26,CUST124,Pune,Clothing,Phone,1.0,44709.0,5.0,Debit Card,4.0,No
+ORD1095,2026-03-27,CUST144,Bengaluru,Books,Jeans,4.0,20830.0,0.0,Net Banking,5.0,No
+ORD1096,2026-03-27,CUST140,Bengaluru,Clothing,Shoes,3.0,40264.0,20.0,Credit Card,5.0,No
+ORD1097,2026-03-28,CUST128,Bengaluru,Clothing,T-Shirt,2.0,44627.0,0.0,UPI,5.0,nan
+ORD1098,2026-03-29,CUST114,Delhi,Home,Mixer,1.0,3668.0,,Cash,3.0,No
+ORD1099,2026-03-30,CUST144,Chennai,Clothing,Laptop,5.0,4097.0,5.0,Cash,4.0,No
+ORD1100,2026-03-31,CUST100,Pune,Electronics,Shoes,4.0,48182.0,15.0,Debit Card,,Yes
+ORD1101,2026-04-01,CUST124,Delhi,Sports,Laptop,2.0,14018.0,20.0,Cash,3.0,No
+ORD1102,2026-04-02,CUST106,Bengaluru,Sports,Jeans,2.0,34860.0,5.0,Net Banking,1.0,No
+ORD1103,2026-04-03,CUST108,Pune,Books,T-Shirt,3.0,11353.0,,Net Banking,5.0,No
+ORD1104,2026-04-04,CUST123,Delhi,Clothing,Headphones,3.0,22416.0,20.0,Debit Card,3.0,No
+ORD1105,2026-04-05,CUST100,Chennai,Electronics,Mixer,5.0,36544.0,10.0,Net Banking,3.0,No
+ORD1106,2026-04-05,CUST143,Delhi,Books,Phone,5.0,36485.0,0.0,Credit Card,1.0,No
+ORD1107,2026-04-06,CUST107,Chennai,Home,Headphones,1.0,1945.0,,Debit Card,2.0,No
+ORD1108,2026-04-07,CUST123,Bengaluru,Books,Jeans,1.0,47823.0,10.0,Credit Card,4.0,No
+ORD1109,2026-04-08,CUST110,Chennai,Books,Shoes,5.0,19556.0,5.0,UPI,,No
+ORD1110,2026-04-09,CUST150,Pune,Clothing,Phone,5.0,36140.0,15.0,Credit Card,2.0,No
+ORD1111,2026-04-10,CUST116,Bengaluru,Home,Backpack,,34922.0,20.0,UPI,5.0,Yes
+ORD1112,2026-04-11,CUST107,Pune,Books,Cricket Bat,3.0,37730.0,0.0,UPI,3.0,No
+ORD1113,2026-04-12,CUST134,Hyderabad,Electronics,Phone,1.0,39582.0,20.0,Credit Card,1.0,No
+ORD1114,2026-04-13,CUST134,Mumbai,Electronics,Jeans,3.0,3008.0,5.0,Debit Card,1.0,No
+ORD1115,2026-04-14,CUST132,Chennai,Sports,Novel,3.0,11994.0,20.0,Net Banking,4.0,No
+ORD1116,2026-04-15,CUST104,Mumbai,Home,Cricket Bat,5.0,9824.0,0.0,Net Banking,2.0,No
+ORD1117,2026-04-15,CUST141,Mumbai,Home,Laptop,4.0,32180.0,5.0,UPI,4.0,No
+ORD1118,2026-04-16,CUST138,Chennai,Sports,Mixer,2.0,39524.0,20.0,UPI,3.0,No
+ORD1119,2026-04-17,CUST140,Bengaluru,Books,Laptop,4.0,37280.0,15.0,Debit Card,4.0,No
+ORD1120,2026-04-18,CUST127,Hyderabad,Home,Phone,4.0,32709.0,,Cash,,Yes
+ORD1121,2026-04-19,CUST106,Pune,Electronics,Laptop,3.0,13524.0,5.0,Credit Card,1.0,No
+ORD1122,2026-04-20,CUST108,Delhi,Electronics,Jeans,4.0,41038.0,,UPI,1.0,Yes
+ORD1123,2026-04-21,CUST107,Pune,Clothing,Backpack,1.0,25450.0,5.0,Net Banking,5.0,No
+ORD1124,2026-04-22,CUST111,Delhi,Home,Shoes,3.0,49988.0,15.0,Debit Card,5.0,nan
+ORD1125,2026-04-23,CUST133,Pune,Books,Mixer,1.0,34693.0,,Credit Card,3.0,Yes
+ORD1126,2026-04-24,CUST132,Chennai,Sports,Laptop,2.0,43382.0,10.0,Debit Card,,No
+ORD1127,2026-04-24,CUST147,Hyderabad,Sports,Laptop,3.0,8273.0,0.0,Credit Card,2.0,No
+ORD1128,2026-04-25,CUST122,Delhi,Books,Phone,2.0,8877.0,10.0,Credit Card,4.0,nan
+ORD1129,2026-04-26,CUST123,Bengaluru,Clothing,Shoes,3.0,8370.0,20.0,UPI,3.0,No
+ORD1130,2026-04-27,CUST136,Pune,Sports,Headphones,5.0,8966.0,15.0,Debit Card,5.0,No
+ORD1131,2026-04-28,CUST134,Pune,Home,Laptop,4.0,36668.0,10.0,Debit Card,4.0,Yes
+ORD1132,2026-04-29,CUST143,Delhi,Clothing,Jeans,5.0,7083.0,5.0,Net Banking,5.0,No
+ORD1133,2026-04-30,CUST139,Bengaluru,Home,Novel,2.0,46294.0,20.0,Net Banking,4.0,nan
+ORD1134,2026-05-01,CUST121,Bengaluru,Electronics,Mixer,4.0,42214.0,20.0,UPI,2.0,nan
+ORD1135,2026-05-02,CUST126,Chennai,Clothing,Laptop,3.0,5271.0,10.0,UPI,3.0,Yes
+ORD1136,2026-05-03,CUST134,Chennai,Sports,Jeans,4.0,13790.0,10.0,Cash,4.0,nan
+ORD1137,2026-05-04,CUST100,Chennai,Clothing,Jeans,1.0,46019.0,15.0,Net Banking,,No
+ORD1138,2026-05-04,CUST134,Chennai,Clothing,Mixer,4.0,45380.0,0.0,Credit Card,1.0,No
+ORD1139,2026-05-05,CUST136,Chennai,Clothing,Headphones,1.0,2290.0,10.0,Debit Card,,No
+ORD1140,2026-05-06,CUST146,Chennai,Clothing,Jeans,4.0,5599.0,10.0,UPI,,No
+ORD1141,2026-05-07,CUST113,Hyderabad,Home,Novel,1.0,46065.0,,Debit Card,1.0,No
+ORD1142,2026-05-08,CUST102,Bengaluru,Electronics,Jeans,2.0,20256.0,5.0,Debit Card,,No
+ORD1143,2026-05-09,CUST100,Chennai,Books,Jeans,5.0,22659.0,,Cash,4.0,No
+ORD1144,2026-05-10,CUST104,Bengaluru,Clothing,Jeans,3.0,46540.0,,Net Banking,4.0,Yes
+ORD1145,2026-05-11,CUST125,Bengaluru,Sports,Backpack,4.0,37448.0,20.0,UPI,4.0,No
+ORD1146,2026-05-12,CUST113,Mumbai,Clothing,Backpack,5.0,29034.0,0.0,Debit Card,1.0,No
+ORD1147,2026-05-13,CUST138,Hyderabad,Sports,Headphones,3.0,5057.0,5.0,UPI,,No
+ORD1148,2026-05-13,CUST126,Chennai,Home,Laptop,3.0,19397.0,15.0,Credit Card,1.0,No
+ORD1149,2026-05-14,CUST108,Pune,Sports,Jeans,1.0,10695.0,15.0,Cash,4.0,nan
+ORD1150,2026-05-15,CUST114,Delhi,Books,Shoes,2.0,16541.0,10.0,Credit Card,,Yes
+ORD1151,2026-05-16,CUST114,Pune,Electronics,Laptop,2.0,38656.0,10.0,UPI,,No
+ORD1152,2026-05-17,CUST125,Hyderabad,Sports,Headphones,5.0,27996.0,15.0,UPI,5.0,No
+ORD1153,2026-05-18,CUST141,Delhi,Sports,T-Shirt,2.0,5244.0,10.0,Net Banking,5.0,No
+ORD1154,2026-05-19,CUST112,Hyderabad,Electronics,Laptop,4.0,46463.0,0.0,Debit Card,2.0,No
+ORD1155,2026-05-20,CUST150,Bengaluru,Books,Laptop,2.0,20116.0,,Debit Card,3.0,No
+ORD1156,2026-05-21,CUST131,Delhi,Clothing,Cricket Bat,5.0,37311.0,10.0,Credit Card,5.0,No
+ORD1157,2026-05-22,CUST138,Bengaluru,Sports,Phone,2.0,25217.0,20.0,Cash,1.0,nan
+ORD1158,2026-05-23,CUST148,Pune,Electronics,Cricket Bat,4.0,31495.0,10.0,Debit Card,5.0,No
+ORD1159,2026-05-23,CUST131,Pune,Home,Novel,1.0,21866.0,5.0,Net Banking,2.0,No
+ORD1160,2026-05-24,CUST103,Delhi,Electronics,Backpack,5.0,10216.0,0.0,Credit Card,,No
+ORD1161,2026-05-25,CUST129,Delhi,Home,Backpack,1.0,21106.0,5.0,Credit Card,2.0,No
+ORD1162,2026-05-26,CUST136,Chennai,Books,Phone,1.0,10284.0,5.0,Net Banking,,No
+ORD1163,2026-05-27,CUST122,Hyderabad,Clothing,Mixer,1.0,2059.0,20.0,Cash,,Yes
+ORD1164,2026-05-28,CUST138,Chennai,Electronics,Mixer,3.0,42249.0,0.0,Net Banking,3.0,nan
+ORD1165,2026-05-29,CUST144,Hyderabad,Sports,Headphones,3.0,27138.0,0.0,Cash,5.0,No
+ORD1166,2026-05-30,CUST114,Chennai,Books,Phone,1.0,2782.0,0.0,Net Banking,1.0,No
+ORD1167,2026-05-31,CUST142,Bengaluru,Electronics,Laptop,5.0,24742.0,0.0,Net Banking,1.0,No
+ORD1168,2026-06-01,CUST128,Delhi,Sports,Mixer,4.0,34019.0,0.0,UPI,4.0,No
+ORD1169,2026-06-01,CUST135,Pune,Electronics,Jeans,4.0,28265.0,20.0,Credit Card,,No
+ORD1170,2026-06-02,CUST112,Hyderabad,Home,Shoes,2.0,2379.0,10.0,Net Banking,1.0,No
+ORD1171,2026-06-03,CUST131,Hyderabad,Electronics,Laptop,5.0,3017.0,5.0,Net Banking,3.0,Yes
+ORD1172,2026-06-04,CUST106,Pune,Electronics,Novel,3.0,28252.0,0.0,Debit Card,,No
+ORD1173,2026-06-05,CUST150,Chennai,Electronics,Jeans,1.0,21208.0,10.0,Credit Card,3.0,nan
+ORD1174,2026-06-06,CUST121,Hyderabad,Books,Jeans,2.0,42760.0,10.0,Debit Card,1.0,Yes
+ORD1175,2026-06-07,CUST127,Bengaluru,Electronics,Phone,4.0,25161.0,5.0,Credit Card,1.0,nan
+ORD1176,2026-06-08,CUST101,Delhi,Sports,Headphones,3.0,7611.0,20.0,Debit Card,4.0,No
+ORD1177,2026-06-09,CUST141,Pune,Home,Novel,3.0,28371.0,15.0,Net Banking,1.0,No
+ORD1178,2026-06-10,CUST144,Delhi,Home,Mixer,1.0,23870.0,15.0,Net Banking,,No
+ORD1179,2026-06-11,CUST105,Hyderabad,Electronics,Phone,4.0,18749.0,10.0,UPI,,No
+ORD1180,2026-06-11,CUST127,Hyderabad,Books,Mixer,5.0,33836.0,,Debit Card,,No
+ORD1181,2026-06-12,CUST127,Pune,Books,Phone,3.0,38558.0,,Cash,4.0,No
+ORD1182,2026-06-13,CUST143,Bengaluru,Sports,Phone,1.0,48602.0,5.0,UPI,4.0,No
+ORD1183,2026-06-14,CUST143,Mumbai,Electronics,Phone,5.0,29165.0,15.0,Debit Card,1.0,No
+ORD1184,2026-06-15,CUST119,Pune,Home,Headphones,4.0,6945.0,10.0,Debit Card,2.0,No
+ORD1185,2026-06-16,CUST129,Mumbai,Books,Phone,3.0,38300.0,20.0,UPI,2.0,No
+ORD1186,2026-06-17,CUST110,Chennai,Electronics,T-Shirt,5.0,27037.0,15.0,Net Banking,4.0,No
+ORD1187,2026-06-18,CUST127,Mumbai,Books,Shoes,5.0,11785.0,10.0,Debit Card,1.0,No
+ORD1188,2026-06-19,CUST124,Bengaluru,Books,Mixer,5.0,38865.0,10.0,Net Banking,2.0,No
+ORD1189,2026-06-20,CUST138,Chennai,Home,Laptop,3.0,25822.0,0.0,UPI,1.0,No
+ORD1190,2026-06-20,CUST132,Mumbai,Clothing,Cricket Bat,3.0,12642.0,20.0,Net Banking,1.0,No
+ORD1191,2026-06-21,CUST100,Chennai,Sports,Novel,2.0,41106.0,0.0,Credit Card,1.0,No
+ORD1192,2026-06-22,CUST126,Mumbai,Sports,Backpack,4.0,49070.0,5.0,Cash,5.0,Yes
+ORD1193,2026-06-23,CUST112,Bengaluru,Home,Headphones,1.0,13387.0,0.0,Debit Card,,No
+ORD1194,2026-06-24,CUST140,Mumbai,Books,Laptop,5.0,37941.0,0.0,Cash,1.0,No
+ORD1195,2026-06-25,CUST102,Mumbai,Electronics,Jeans,2.0,34549.0,15.0,Net Banking,5.0,No
+ORD1196,2026-06-26,CUST138,Mumbai,Books,T-Shirt,1.0,10393.0,,Debit Card,4.0,No
+ORD1197,2026-06-27,CUST105,Pune,Home,Backpack,2.0,47490.0,10.0,Net Banking,2.0,No
+ORD1198,2026-06-28,CUST107,Pune,Sports,Cricket Bat,3.0,16738.0,20.0,Credit Card,,No
+ORD1199,2026-06-29,CUST126,Pune,Books,Laptop,5.0,40711.0,0.0,UPI,2.0,No
+ORD1200,2026-06-30,CUST108,Bengaluru,Sports,Backpack,1.0,26699.0,20.0,Debit Card,,No
